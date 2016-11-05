@@ -4,5 +4,8 @@
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
 
+# track vscode extension.
+!.vscode
+
 # ignore log files and databases
 *.log
